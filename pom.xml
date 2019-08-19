@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>credit.suisse</groupId>
-    <artifactId>CSCodingChallenge</artifactId>
+    <artifactId>CsCodingChallenge</artifactId>
     <version>1.0</version>
-    <name>CSCodingChallenge</name>
+    <name>CsCodingChallenge</name>
     <description>Apple Itunes processor</description>
 
     <properties>
